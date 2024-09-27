@@ -1,0 +1,13 @@
+.malla{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 10px;
+}
+.cuadrado {
+    background-color: #cfe8dc;
+    border: 1px solid #ccc;
+    padding: 0px 0px 40px 0px; 
+    font-size: 20px;
+    border-radius: 5px;
+}
